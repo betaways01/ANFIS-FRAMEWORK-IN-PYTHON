@@ -6,10 +6,11 @@ This task models the ANFIS classifier, assesses its accuracy and other metrics (
 Data Description
 The data used was obtained from the archives of UCI (2011), which was merged from 3 source, by region as shown in the table below:
 
-| Region	| Observations in Data |
-| Cleveland |	303|
-| Hungary |	294 |
-| Long beach |	200 |
-| Switzerland	| 123 |
+| REGION | OBSERVATIONS IN DATA |
+| :--- | :--- |
+| Cleveland | 303 |
+| Hungary | 294 |
+| Long beach | 200 |
+| Switzerland | 123 |
  
 Looking at the variables, there were 13 patients’ information and the target variable, heart disease. 
