@@ -1,0 +1,1 @@
+Ensure all these files are in the same folder (Models, analysis.ipynb, heart_data.csv), in order to run perfectly.
